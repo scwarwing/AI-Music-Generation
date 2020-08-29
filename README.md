@@ -1,4 +1,4 @@
-#Output of this project
+# Output of this project
 https://soundcloud.com/ksuen/deep-learning-generated-music
 
 The song quality is actually quite promising, by using a simple RNN model (LSTM to be specific) with around a dozen pop songs as the training datasets. Can't really tell if it's a machine-generated one or human.
